@@ -1,4 +1,3 @@
-# tests/test_uniswap.py
 import brownie
 
 def test_swap_tokens(uniswap_v2, accounts):
